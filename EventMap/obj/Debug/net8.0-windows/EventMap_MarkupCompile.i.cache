@@ -1,0 +1,20 @@
+﻿EventMap
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\
+EventMap
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\App.xaml
+20-1006218699
+
+41-811147205
+208-1538238834
+Front\View\2.xaml;Front\View\3.xaml;Front\View\4.xaml;Front\View\5.xaml;Front\View\6.xaml;Front\View\7.xaml;Front\View\AddEventPage.xaml;Front\View\AddPage.xaml;Front\View\AddTagPage.xaml;Front\View\DetailPage.xaml;Front\View\EditEventPage.xaml;Front\View\EventMap.xaml;Front\View\HomePage.xaml;Front\View\LocationAddPage.xaml;Front\View\LocationPage.xaml;Front\View\SearchEventPage.xaml;Front\View\SettingsPage.xaml;Front\View\ShowAllEvents.xaml;Front\View\TagPage.xaml;Front\View\TutorialPage.xaml;
+
+True
+

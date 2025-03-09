@@ -1,0 +1,165 @@
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\bin\Debug\net8.0-windows\EventMap.exe
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\bin\Debug\net8.0-windows\EventMap.deps.json
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\bin\Debug\net8.0-windows\EventMap.runtimeconfig.json
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\bin\Debug\net8.0-windows\EventMap.dll
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\bin\Debug\net8.0-windows\EventMap.pdb
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\HomePage.g.cs
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap_MarkupCompile.cache
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap_MarkupCompile.lref
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\HomePage.baml
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.g.resources
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.AssemblyInfoInputs.cache
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.AssemblyInfo.cs
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.csproj.CoreCompileInputs.cache
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.dll
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\refint\EventMap.dll
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.pdb
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.genruntimeconfig.cache
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\ref\EventMap.dll
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.csproj.AssemblyReference.cache
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\ShowAllEvents.g.cs
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\ShowAllEvents.baml
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.csproj.Up2Date
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\AddEvent.g.cs
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\AddEvent.baml
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\AddPage.g.cs
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\AddPage.baml
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\SettingsPage.g.cs
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\TutorialPage.g.cs
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\SettingsPage.baml
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\TutorialPage.baml
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\TiketPage.g.cs
+C:\Users\Damjan\Desktop\EventMap\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\TiketPage.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\bin\Debug\net8.0-windows\EventMap.exe
+C:\Users\iwanmf\Desktop\EventMap\EventMap\bin\Debug\net8.0-windows\EventMap.deps.json
+C:\Users\iwanmf\Desktop\EventMap\EventMap\bin\Debug\net8.0-windows\EventMap.runtimeconfig.json
+C:\Users\iwanmf\Desktop\EventMap\EventMap\bin\Debug\net8.0-windows\EventMap.dll
+C:\Users\iwanmf\Desktop\EventMap\EventMap\bin\Debug\net8.0-windows\EventMap.pdb
+C:\Users\iwanmf\Desktop\EventMap\EventMap\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\iwanmf\Desktop\EventMap\EventMap\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\iwanmf\Desktop\EventMap\EventMap\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.csproj.AssemblyReference.cache
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\AddPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\HomePage.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\SettingsPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\ShowAllEvents.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\TutorialPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap_MarkupCompile.cache
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap_MarkupCompile.lref
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\AddPage.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\HomePage.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\SettingsPage.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\ShowAllEvents.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\TutorialPage.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.g.resources
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.AssemblyInfoInputs.cache
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.AssemblyInfo.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.csproj.CoreCompileInputs.cache
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.csproj.Up2Date
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.dll
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\refint\EventMap.dll
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.pdb
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\EventMap.genruntimeconfig.cache
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\ref\EventMap.dll
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\EventMap.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\EventMap.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\DetailPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\DetailPage.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\AddEventPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\AddEventPage.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\EditEventPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\EditEventPage.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\SearchEventPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\SearchEventPage.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\LocationPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\TagPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\LocationPage.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\TagPage.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\AddTagPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\AddTagPage.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\LocationAddPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\LocationAddPage.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\2.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\2.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\3.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\4.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\5.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\6.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\7.g.cs
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\3.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\4.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\5.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\6.baml
+C:\Users\iwanmf\Desktop\EventMap\EventMap\obj\Debug\net8.0-windows\Front\View\7.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\bin\Debug\net8.0-windows\EventMap.exe
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\bin\Debug\net8.0-windows\EventMap.deps.json
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\bin\Debug\net8.0-windows\EventMap.runtimeconfig.json
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\bin\Debug\net8.0-windows\EventMap.dll
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\bin\Debug\net8.0-windows\EventMap.pdb
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\EventMap.csproj.AssemblyReference.cache
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\2.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\3.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\4.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\5.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\6.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\7.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\AddEventPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\AddPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\AddTagPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\DetailPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\EditEventPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\EventMap.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\HomePage.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\LocationAddPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\LocationPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\SearchEventPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\SettingsPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\ShowAllEvents.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\TagPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\TutorialPage.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\EventMap_MarkupCompile.cache
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\EventMap_MarkupCompile.lref
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\2.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\3.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\4.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\5.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\6.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\7.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\AddEventPage.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\AddPage.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\AddTagPage.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\DetailPage.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\EditEventPage.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\EventMap.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\HomePage.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\LocationAddPage.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\LocationPage.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\SearchEventPage.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\SettingsPage.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\ShowAllEvents.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\TagPage.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\Front\View\TutorialPage.baml
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\EventMap.g.resources
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\EventMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\EventMap.AssemblyInfoInputs.cache
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\EventMap.AssemblyInfo.cs
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\EventMap.csproj.CoreCompileInputs.cache
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\EventMap.csproj.Up2Date
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\EventMap.dll
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\refint\EventMap.dll
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\EventMap.pdb
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\EventMap.genruntimeconfig.cache
+C:\Users\iwanmf\Desktop\EventMap c# WPF\EventMap\obj\Debug\net8.0-windows\ref\EventMap.dll

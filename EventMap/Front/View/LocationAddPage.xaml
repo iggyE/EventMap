@@ -1,0 +1,37 @@
+﻿<Page x:Class="EventMap.Front.View.LocationAddPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EventMap.Front.View"
+      mc:Ignorable="d" 
+      Background="BurlyWood"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="LocationAddPage">
+
+    <Grid>
+        <StackPanel Background="BlanchedAlmond" Margin="0,0,-2,0" Orientation="Horizontal" VerticalAlignment="Top" Height="50">
+            <Button Content="Back" Width="70" Margin="15,2,0,5" Height="40" Click="Button_Click" BorderBrush="Red"/>
+            <Button Content="Home" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="Green" Click="Button_Click_1"/>
+            <Button Content="Selection" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="Blue" Click="Button_Click2"/>
+            <Button Content="Help" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="DimGray" Click="Button_Click3"/>
+            <Button Content="Tutorial" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="MediumPurple" Click="Button_Click4"/>
+            <TextBlock HorizontalAlignment="Left" Margin="112,8,0,0" TextWrapping="Wrap" Text="Locations" VerticalAlignment="Top" FontSize="25" FontWeight="Bold"/>
+        </StackPanel>
+        <TextBox HorizontalAlignment="Left" Margin="254,237,0,0" TextWrapping="Wrap" Text="{Binding Grad}" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="423,237,0,0" TextWrapping="Wrap" Text="{Binding Drzava}" VerticalAlignment="Top" Width="120"/>
+        <Button Background="Green" Command="{Binding AddLocationCommand}"   Content="Create location" HorizontalAlignment="Left" Margin="289,324,0,0" VerticalAlignment="Top" Click="CreateButton" Width="92" Height="44"/>
+        <Button Background="Red" Content="Cancel" HorizontalAlignment="Left" Margin="429,324,0,0" VerticalAlignment="Top" Height="44" Width="92" Click="CancelButton" RenderTransformOrigin="0.423,0.468"/>
+        <TextBlock HorizontalAlignment="Left" Margin="423,201,0,0" TextWrapping="Wrap" Text="Country:" VerticalAlignment="Top" FontSize="18"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="254,201,0,0" TextWrapping="Wrap" Text="City:" VerticalAlignment="Top" FontSize="18"/>
+
+        <Grid Margin="225,132,219,152">
+            <Border BorderBrush="Lime" BorderThickness="2">
+
+            </Border>
+        </Grid>
+        <Button Background="Red" Content="" HorizontalAlignment="Center" Margin="0,246,0,0" VerticalAlignment="Top" Width="10" Height="25"/>
+
+    </Grid>
+</Page>

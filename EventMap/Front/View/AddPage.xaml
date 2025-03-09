@@ -1,0 +1,42 @@
+﻿<Page x:Class="EventMap.Front.View.AddPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EventMap.Front.View"
+      mc:Ignorable="d" 
+      Background="BurlyWood"
+      d:DesignHeight="450" d:DesignWidth="750"
+      Title="AddPage">
+
+    <Grid>
+        <Grid>
+
+
+            <StackPanel Background="BlanchedAlmond" Margin="0,0,-2,0" Orientation="Horizontal" VerticalAlignment="Top" Height="50">
+                <Button Content="Back" Width="70" Margin="15,2,0,5" Height="40" Click="Button_Click" BorderBrush="Red"/>
+                <Button Content="Home" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="Green" Click="Button_Click_1"/>
+                <Button Content="Selection" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="Blue" Click="Button_Click2"/>
+                <Button Content="Help" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="DimGray" Click="Button_Click3"/>
+                <Button Content="Tutorial" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="MediumPurple" Click="Button_Click4"/>
+                <TextBlock HorizontalAlignment="Left" Margin="112,8,0,0" TextWrapping="Wrap" Text="Select and open" VerticalAlignment="Top" FontSize="25" FontWeight="Bold"/>
+            </StackPanel>
+
+            <Grid Margin="0,49,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="173*"/>
+                    <ColumnDefinition Width="77*"/>
+                </Grid.ColumnDefinitions>
+                <Image Source="/Front/Images/lokacija.jpg" Stretch="Fill" Margin="-27,74,259,0"/>
+                <Image Source="/Front/Images/event.jpeg" Stretch="Fill" Margin="260,74,230,0" Grid.ColumnSpan="2"/>
+                <Image Source="/Front/Images/tag.jpeg" Stretch="Fill" Margin="10,74,0,0" Grid.Column="1"/>
+                <Button Background="DodgerBlue" Content="Open Events" HorizontalAlignment="Left" Margin="362,28,0,0" VerticalAlignment="Top" Width="82" Height="22" Click="OpenEventsButton"/>
+                <Button Background="LimeGreen" Content="Open Location" HorizontalAlignment="Left" Margin="94,28,0,0" VerticalAlignment="Top" Width="82" Height="22" Click="OpenLocationButton"/>
+                <Button Background="Yellow" Content="Open Tags" HorizontalAlignment="Left" Margin="87,28,0,0" VerticalAlignment="Top" Width="82" Height="22" Click="OpenTicketButton" Grid.Column="1"/>
+            </Grid>
+
+
+
+        </Grid>
+    </Grid>
+</Page>

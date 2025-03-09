@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Front\View\2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\3.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\4.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\5.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\6.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\7.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\AddEventPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\AddPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\AddTagPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\DetailPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\EditEventPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\HomePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\EventMap.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\LocationAddPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\LocationPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\SearchEventPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\SettingsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\ShowAllEvents.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\TagPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Front\View\TutorialPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Front\View\2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\3.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\4.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\5.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\6.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\7.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\AddEventPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\AddPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\AddTagPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\DetailPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\EditEventPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\HomePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\EventMap.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\LocationAddPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\LocationPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\SearchEventPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\SettingsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\ShowAllEvents.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\TagPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Front\View\TutorialPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

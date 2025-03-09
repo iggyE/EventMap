@@ -1,0 +1,31 @@
+﻿<Page x:Class="EventMap.Front.View.HomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EventMap.Front.View"
+      mc:Ignorable="d" 
+      Background="BurlyWood"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="HomePage">
+
+    <Grid>
+
+        <StackPanel Background="BlanchedAlmond" Margin="0,0,-2,0" Orientation="Horizontal" VerticalAlignment="Top" Height="50">
+            <Button Content="Back" Width="70" Margin="15,2,0,5" Height="40" Click="Button_Click" BorderBrush="Red"/>
+            <Button Content="Home" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="Green" Click="Button_Click_1"/>
+            <Button Content="Selection" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="Blue" Click="Button_Click2"/>
+            <Button Content="Help" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="DimGray" Click="Button_Click3"/>
+            <Button Content="Tutorial" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="MediumPurple" Click="Button_Click4"/>
+            <TextBlock HorizontalAlignment="Left" Margin="112,8,0,0" TextWrapping="Wrap" Text="All events on map" VerticalAlignment="Top" FontSize="25" FontWeight="Bold"/>
+        </StackPanel>
+
+
+        <Canvas Name="canvas" Background="BurlyWood" AllowDrop="True" Drop="Canvas_Drop" MouseMove="Canvas_MouseMove"  Margin="0,50,0,-1" HorizontalAlignment="Center" Width="750">
+            <!-- Ovdje će biti prikazane ikonice -->
+            <Image Source="/Front/Images/mapasveta.jpg" IsEnabled="True" IsHitTestVisible="True" Stretch="Fill" HorizontalAlignment="Left" Height="421" VerticalAlignment="Center" Width="814" Canvas.Left="-30"/>
+        </Canvas>
+
+    </Grid>
+
+</Page>

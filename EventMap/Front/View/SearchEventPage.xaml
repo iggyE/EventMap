@@ -1,0 +1,87 @@
+﻿<Page x:Class="EventMap.Front.View.SearchEventPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EventMap.Front.View"
+      mc:Ignorable="d" 
+      Background="BurlyWood"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="SearchEventPage">
+
+    <Grid>
+        <StackPanel Background="BlanchedAlmond" Margin="0,0,-2,0" Orientation="Horizontal" VerticalAlignment="Top" Height="50">
+            <Button Content="Back" Width="70" Margin="15,2,0,5" Height="40" Click="Button_Click" BorderBrush="Red"/>
+            <Button Content="Home" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="Green" Click="Button_Click_1"/>
+            <Button Content="Selection" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="Blue" Click="Button_Click2"/>
+            <Button Content="Help" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="DimGray" Click="Button_Click3"/>
+            <Button Content="Tutorial" Width="70" Height="40" Margin="15,2,0,5" BorderBrush="MediumPurple" Click="Button_Click4"/>
+            <TextBlock HorizontalAlignment="Left" Margin="112,8,0,0" TextWrapping="Wrap" Text="Search by type" VerticalAlignment="Top" FontSize="25" FontWeight="Bold"/>
+        </StackPanel>
+        <ListView Background="DodgerBlue" Margin="21,251,19,20" Name="EventsList" ItemsSource="{Binding Events}"
+          >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Tag" DisplayMemberBinding="{Binding Oznaka}" Width="60"/>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Naziv}" Width="100"/>
+                    <GridViewColumn Header="Event type" DisplayMemberBinding="{Binding TipOznaka}" Width="70"/>
+                    <GridViewColumn Header="Visitation" DisplayMemberBinding="{Binding Posecenost}" Width="80"/>
+                    <GridViewColumn Header="City" DisplayMemberBinding="{Binding Grad}" Width="75"/>
+                    <GridViewColumn Header="Country" DisplayMemberBinding="{Binding Drzava}" Width="75"/>
+
+                    <GridViewColumn Header="Humanitarian" Width=" 85">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock>
+                                    <TextBlock.Style>
+                                        <Style TargetType="TextBlock">
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding Humanitarni}" Value="True">
+                                                    <Setter Property="Text" Value="Jeste"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding Humanitarni}" Value="False">
+                                                    <Setter Property="Text" Value="Nije"/>
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </TextBlock.Style>
+                                </TextBlock>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                    <GridViewColumn Header="Avg cost ($)" DisplayMemberBinding="{Binding ProsecanTrosak}" Width="86"/>
+                    <GridViewColumn Header="Date" DisplayMemberBinding="{Binding DatumOdrzavanja}" Width="120"/>
+                </GridView>
+            </ListView.View>
+            <ListView.Style>
+                <Style TargetType="ListView">
+                    <Setter Property="ScrollViewer.HorizontalScrollBarVisibility" Value="Disabled"/>
+                </Style>
+            </ListView.Style>
+        </ListView>
+
+        <Button Background="CornflowerBlue" Content="Apply filter" HorizontalAlignment="Left" Margin="560,0,0,0" VerticalAlignment="Center" Width="98" Height="34" Click="ApplyFilterButton"/>
+        <Button Background="OrangeRed" Content="Reset filter" HorizontalAlignment="Left" Margin="683,0,0,0" VerticalAlignment="Center" Width="98" Height="34" Click="ResetFilterButton"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="21,65,0,0" TextWrapping="Wrap" Text="Search by mark:" FontSize="16" VerticalAlignment="Top"/>
+        <TextBox x:Name="SearchOznaka" HorizontalAlignment="Left" Margin="21,91,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="128" Height="23"/>
+
+        <TextBox x:Name="SearchName" HorizontalAlignment="Left" Margin="21,161,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="128" Height="23"/>
+        <TextBlock HorizontalAlignment="Left" Margin="21,135,0,0" TextWrapping="Wrap" Text="Search by name:" FontSize="16" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="SearchCost" HorizontalAlignment="Left" Margin="653,91,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="128" Height="23"/>
+        <TextBox x:Name="SearchCity" HorizontalAlignment="Left" Margin="431,91,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="128" Height="23"/>
+        <TextBox x:Name="SearchCountry" HorizontalAlignment="Left" Margin="431,161,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="128" Height="23"/>
+        <TextBlock HorizontalAlignment="Left" Margin="220,65,0,0" TextWrapping="Wrap" Text="Search by type:" FontSize="16" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="220,135,0,0" TextWrapping="Wrap" Text="Search by visitors:" FontSize="16" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="431,65,0,0" TextWrapping="Wrap" Text="Search by city:" FontSize="16" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="431,135,0,0" TextWrapping="Wrap" Text="Search by country:" FontSize="16" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="653,65,0,0" TextWrapping="Wrap" Text="Search by cost:" FontSize="16" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="653,135,0,0" TextWrapping="Wrap" Text="Search by date:" FontSize="16" VerticalAlignment="Top"/>
+        <DatePicker x:Name="SearchDate" HorizontalAlignment="Left" Margin="653,160,0,0" VerticalAlignment="Top" Width="128"/>
+        <ComboBox x:Name="SearchVisitors" HorizontalAlignment="Left" Margin="220,161,0,0" VerticalAlignment="Top" Width="126"/>
+        <ComboBox x:Name="SearchType" HorizontalAlignment="Left" Margin="220,92,0,0" VerticalAlignment="Top" Width="126"/>
+
+    </Grid>
+</Page>
